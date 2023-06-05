@@ -14,7 +14,7 @@ export default function Card1() {
           img={image1}
           heading="Movie Night"
           // date='2022'
-          about="Get ready for a reel good time at our college event 'Movie Night' - where cinematic magic meets unforgettable memories!"
+          about="Get ready for a reel good time at 'Movie Night' - where cinematic magic meets unforgettable memories!"
           link="/movie-night"
         />
       </div>
@@ -23,7 +23,7 @@ export default function Card1() {
           img={image2}
           heading="Diksha"
           // date='2022'
-          about="Embark on a journey of new beginnings and unforgettable memories at 'Diksha' – the ultimate freshers party that will ignite your college experience!"
+          about="Embark on a journey of new beginnings and unforgettable memories at 'Diksha' – the ultimate freshers party."
           link="/diksha"
         />
       </div>
