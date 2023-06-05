@@ -39,7 +39,7 @@ function EVENTS() {
             title="Le Fiestus"
             date=""
             about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances. From engaging workshops and competitive sports events to captivating cultural showcases and star-studded musical performances, Le Fiestus offers a diverse range of experiences that cater to every interest. So join us as we celebrate the spirit of camaraderie, creativity, and pure excitement, making memories that will last a lifetime. Get ready to immerse yourself in the vibrant atmosphere of Le Fiestus and unleash the true essence of college life."
-            link="/"
+            link="/le-fiestus"
           />
 
           <Card
@@ -47,7 +47,7 @@ function EVENTS() {
             title="Murious"
             date=""
             about="Welcome to 'Murious' – our college's highly anticipated annual tech fest that spans three action-packed days dedicated to innovation, technology, and limitless possibilities. Get ready to witness the brightest minds competing in a myriad of exhilarating tech competitions that cover a wide spectrum of disciplines, ranging from coding challenges and robotics competitions to hackathons and design showcases."
-            link="/"
+            link="/murious"
           />
 
           <Card
@@ -55,7 +55,7 @@ function EVENTS() {
             title="Semester Tournament"
             date=""
             about="A tournament which brings together all the sports enthusiasts. From basketball to cricket ,chess to badminton from indoor to outdoors this tournament wraps it all."
-            link="/"
+            link="/sem-tournaments"
           />
 
           <Card
