@@ -22,6 +22,7 @@ import MovieNight from "./Pages/Event Page/EventPages/MovieNight/MovieNight";
 import LeFiestus from "./Pages/Event Page/EventPages/LeFiestus/LeFiestus";
 import Murious from "./Pages/Event Page/EventPages/Murious/Murious";
 import SemTournaments from "./Pages/Event Page/EventPages/SemTournaments/SemTournaments";
+import Diksha from "./Pages/Event Page/EventPages/Diksha/Diksha";
 function App() {
   return (
     <BrowserRouter>
@@ -47,6 +48,7 @@ function App() {
         <Route path="le-fiestus" element={<LeFiestus />} />
         <Route path="murious" element={<Murious />} />
         <Route path="sem-tournaments" element={<SemTournaments />} />
+        <Route path="diksha" element={<Diksha />} />
         <Route
           path="page-under-construction"
           element={<Page_Under_Construction />}
