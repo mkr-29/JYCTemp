@@ -1,7 +1,7 @@
 import React from "react";
 import "./EVENTS.css";
-import uiux from "./images/uiux.jpeg";
-import Photowalk from "./images/Photowalk.jpeg";
+import lf from "./images/lf.JPG";
+import murious from "./images/murious.JPG";
 import movienight from "./images/movienight.jpeg";
 import radio from "./images/radio.jpeg";
 import sems from "./images/sems.jpeg";
@@ -35,18 +35,18 @@ function EVENTS() {
           />
 
           <Card
-            img={uiux}
-            title="UI/UX and Web Dev Bootcamp"
+            img={lf}
+            title="Le Fiestus"
             date=""
-            about="When building a website, the UI/UX designer determines what the team should build and what the website should do & the developers make the website work and functionable."
+            about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances. From engaging workshops and competitive sports events to captivating cultural showcases and star-studded musical performances, Le Fiestus offers a diverse range of experiences that cater to every interest. So join us as we celebrate the spirit of camaraderie, creativity, and pure excitement, making memories that will last a lifetime. Get ready to immerse yourself in the vibrant atmosphere of Le Fiestus and unleash the true essence of college life."
             link="/"
           />
 
           <Card
-            img={Photowalk}
-            title="Photowalk"
+            img={murious}
+            title="Murious"
             date=""
-            about="Photowalking is a communal activity of camera enthusiasts who gather in a group to walk around with a camera for the main purpose of taking pictures of things that interest them."
+            about="Welcome to 'Murious' – our college's highly anticipated annual tech fest that spans three action-packed days dedicated to innovation, technology, and limitless possibilities. Get ready to witness the brightest minds competing in a myriad of exhilarating tech competitions that cover a wide spectrum of disciplines, ranging from coding challenges and robotics competitions to hackathons and design showcases."
             link="/"
           />
 
