@@ -1,12 +1,12 @@
 import React from "react";
 import "./EVENTS.css";
 import lf from "./images/lf.JPG";
-import murious from "./images/murious.JPG";
+import murious from "./images/murious1.JPG";
 import movienight from "./images/movienight.jpeg";
-import radio from "./images/radio.jpeg";
-import sems from "./images/sems.jpeg";
+import alfaz from "./images/alfaz.JPG";
+import sems from "./images/sems.JPG";
 import mchef from "./images/mchef.png";
-import wecare from "./images/wecare.png";
+import diksha from "./images/diksha.JPG";
 import Card from "../CARDS/CARDS";
 import Header from "../../components/Header/Header";
 import Footer from "../../components/Footer/Footer";
@@ -38,7 +38,7 @@ function EVENTS() {
             img={lf}
             title="Le Fiestus"
             date=""
-            about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances. From engaging workshops and competitive sports events to captivating cultural showcases and star-studded musical performances, Le Fiestus offers a diverse range of experiences that cater to every interest. So join us as we celebrate the spirit of camaraderie, creativity, and pure excitement, making memories that will last a lifetime. Get ready to immerse yourself in the vibrant atmosphere of Le Fiestus and unleash the true essence of college life."
+            about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances."
             link="/le-fiestus"
           />
 
@@ -59,18 +59,18 @@ function EVENTS() {
           />
 
           <Card
-            img={radio}
-            title="JUIT Radio"
+            img={alfaz}
+            title="Alfaz"
             date=""
-            about="Bored of being bored because being bored is boring. 'Radio' Presented by JYC's Literary and Debating Club."
+            about="The Literary and Debating Club of JUIT Youth Club hosted 'ALFAAZ '22,' a celebration merging literature, art, and culture against the stunning Himalayan backdrop."
             link="/"
           />
 
           <Card
-            img={wecare}
-            title="We-Care"
+            img={diksha}
+            title="Diksha"
             date=""
-            about="WE-CARE an event organized by the Environment club in coordination with the Omega- Leo club , to create awareness amongst the youngsters and teenagers about tree plantation ,importance of trees for life and much more."
+            about="The Freshers' Events at JUIT are a celebration of new beginnings, forging lifelong connections, and creating unforgettable memories. From the moment you step foot on our picturesque campus, you will be embraced by the warm camaraderie and contagious enthusiasm that defines our vibrant student community."
             link="/"
           />
           <Card
