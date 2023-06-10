@@ -23,6 +23,9 @@ import LeFiestus from "./Pages/Event Page/EventPages/LeFiestus/LeFiestus";
 import Murious from "./Pages/Event Page/EventPages/Murious/Murious";
 import SemTournaments from "./Pages/Event Page/EventPages/SemTournaments/SemTournaments";
 import Diksha from "./Pages/Event Page/EventPages/Diksha/Diksha";
+import Alfaaz from "./Pages/Event Page/EventPages/Alfaaz/Alfaaz";
+import MasterChef from "./Pages/Event Page/EventPages/MasterChef/MasterChef";
+import Parakram from "./Pages/Event Page/EventPages/Parakram/Parakram";
 function App() {
   return (
     <BrowserRouter>
@@ -49,6 +52,9 @@ function App() {
         <Route path="murious" element={<Murious />} />
         <Route path="sem-tournaments" element={<SemTournaments />} />
         <Route path="diksha" element={<Diksha />} />
+        <Route path="alfaaz" element={<Alfaaz />} />
+        <Route path="master-chef" element={<MasterChef />} />
+        <Route path="parakram" element={<Parakram />} />
         <Route
           path="page-under-construction"
           element={<Page_Under_Construction />}

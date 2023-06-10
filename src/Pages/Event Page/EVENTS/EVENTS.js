@@ -46,7 +46,7 @@ function EVENTS() {
             img={murious}
             title="Murious"
             date=""
-            about="Welcome to 'Murious' – our college's highly anticipated annual tech fest that spans three action-packed days dedicated to innovation, technology, and limitless possibilities. Get ready to witness the brightest minds competing in a myriad of exhilarating tech competitions that cover a wide spectrum of disciplines, ranging from coding challenges and robotics competitions to hackathons and design showcases."
+            about="Welcome to 'Murious' – our college's highly anticipated annual tech fest that spans three action-packed days dedicated to innovation, technology, and limitless possibilities."
             link="/murious"
           />
 
@@ -63,7 +63,7 @@ function EVENTS() {
             title="Alfaz"
             date=""
             about="The Literary and Debating Club of JUIT Youth Club hosted 'ALFAAZ '22,' a celebration merging literature, art, and culture against the stunning Himalayan backdrop."
-            link="/"
+            link="/alfaaz"
           />
 
           <Card
@@ -71,14 +71,21 @@ function EVENTS() {
             title="Diksha"
             date=""
             about="The Freshers' Events at JUIT are a celebration of new beginnings, forging lifelong connections, and creating unforgettable memories. From the moment you step foot on our picturesque campus, you will be embraced by the warm camaraderie and contagious enthusiasm that defines our vibrant student community."
-            link="/"
+            link="/diksha"
           />
           <Card
             img={mchef}
             title="Master Chef"
             date=""
             about="An event organized to spread awareness about the importance of health."
-            link="/"
+            link="/master-chef"
+          />
+          <Card
+            img={mchef}
+            title="Parakram"
+            date=""
+            about="An event organized to spread awareness about the importance of health."
+            link="/parakram"
           />
         </div>
       </div>
