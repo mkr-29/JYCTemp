@@ -3,7 +3,12 @@ import Card from "../Card/Card";
 import "../MovieNight/MovieNight.css";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import lf from "./Assets/lf.JPG";
+import parakram from "./Assets/parakram.JPG";
+import parakram1 from "./Assets/parakram1.JPG";
+import parakram2 from "./Assets/parakram2.JPG";
+import parakram3 from "./Assets/parakram3.JPG";
+import parakram4 from "./Assets/parakram4.JPG";
+import parakram5 from "./Assets/parakram5.JPG";
 
 export default function Parakram() {
   return (
@@ -12,21 +17,21 @@ export default function Parakram() {
       <div className="mov-night">
       <span className="header-bg-for-white"/>
         <Card
-          img={lf}
-          alt="Le Fiestus"
-          title="Le Fiestus"
-          date="Date: 27-29 April, 2023 "
-          about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances. From engaging workshops and competitive sports events to captivating cultural showcases and star-studded musical performances, Le Fiestus offers a diverse range of experiences that cater to every interest. So join us as we celebrate the spirit of camaraderie, creativity, and pure excitement, making memories that will last a lifetime. Get ready to immerse yourself in the vibrant atmosphere of Le Fiestus and unleash the true essence of college life."
-          img1={lf}
-          alt1="Le Fiestus"
-          img2={lf}
-          alt2="Le Fiestus"
-           img3={lf}
-          alt3="Le Fiestus"
-          img4={lf}
-          alt4="Le Fiestus"
-          img5={lf}
-          alt5="Le Fiestus"
+          img={parakram}
+          alt="Parakram"
+          title="Parakram"
+          date=""
+          about="Parakram, a thrilling sports event, brings together universities for competitive matches in football, basketball, volleyball, tennis, and more. Our university hosts the event, attracting students from all over to cheer for their teams. With our university also participating, it creates an electric atmosphere as teams from different universities come together to showcase their skills and sportsmanship."
+          img1={parakram1}
+          alt1="Parakram"
+          img2={parakram2}
+          alt2="Parakram"
+           img3={parakram3}
+          alt3="Parakram"
+          img4={parakram4}
+          alt4="Parakram"
+          img5={parakram5}
+          alt5="Parakram"
         />
       </div>
       <Footer/>

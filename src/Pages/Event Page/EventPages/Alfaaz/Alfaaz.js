@@ -3,7 +3,12 @@ import Card from "../Card/Card";
 import "../MovieNight/MovieNight.css";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import lf from "./Assets/lf.JPG";
+import alfaz from "./Assets/alfaz.JPG";
+import alfaz1 from "./Assets/alfaz1.JPG";
+import alfaz2 from "./Assets/alfaz2.JPG";
+import alfaz3 from "./Assets/alfaz3.JPG";
+import alfaz4 from "./Assets/alfaz4.JPG";
+import alfaz5 from "./Assets/alfaz5.JPG";
 
 export default function Alfaaz() {
   return (
@@ -12,21 +17,21 @@ export default function Alfaaz() {
       <div className="mov-night">
       <span className="header-bg-for-white"/>
         <Card
-          img={lf}
-          alt="Le Fiestus"
-          title="Le Fiestus"
-          date="Date: 27-29 April, 2023 "
-          about="Welcome to 'Le Fiestus' – our college's highly anticipated annual fest that promises three unforgettable days filled with boundless energy, exhilarating activities, and mesmerizing performances. From engaging workshops and competitive sports events to captivating cultural showcases and star-studded musical performances, Le Fiestus offers a diverse range of experiences that cater to every interest. So join us as we celebrate the spirit of camaraderie, creativity, and pure excitement, making memories that will last a lifetime. Get ready to immerse yourself in the vibrant atmosphere of Le Fiestus and unleash the true essence of college life."
-          img1={lf}
-          alt1="Le Fiestus"
-          img2={lf}
-          alt2="Le Fiestus"
-           img3={lf}
-          alt3="Le Fiestus"
-          img4={lf}
-          alt4="Le Fiestus"
-          img5={lf}
-          alt5="Le Fiestus"
+          img={alfaz}
+          alt="Alfaz"
+          title="Alfaz"
+          date=""
+          about="ALFAAZ '22, hosted by JUIT Youth Club's Literary and Debating Club, merged literature, art, and culture against the stunning Himalayan backdrop. The event featured the JUIT Youth Parliament (JYP), a high-level debating competition, a Bollywood Night with participants dressed as iconic characters, and Lafz, The Poetry Night, celebrating poetic expressions. Attendees were captivated by the mesmerizing events, creating unforgettable memories of literature, art, and culture amidst the majestic Himalayas."
+          img1={alfaz1}
+          alt1="Alfaz"
+          img2={alfaz2}
+          alt2="Alfaz"
+           img3={alfaz3}
+          alt3="Alfaz"
+          img4={alfaz4}
+          alt4="Alfaz"
+          img5={alfaz5}
+          alt5="Alfaz"
         />
       </div>
       <Footer/>
