@@ -15,7 +15,7 @@ export default function MovieNight() {
           img={MovieNightImg}
           alt="Movie Night"
           title="Movie Night"
-          date=""
+          date="Date: 12th March 2021"
           about="When you are at college, you are always looking for simple ways to have fun. Movies are the best stress reliever to be able to just forget about your responsibilities and just relax and have fun. So, we bring to you the Movie Night, where you can watch your favourite movies with your friends and have a great time. So, grab your popcorn and get ready for a fun night!"
           img1={MovieNightImg}
           alt1="Movie Night"

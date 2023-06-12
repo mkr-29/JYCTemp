@@ -3,12 +3,6 @@ import Card from "../Card/Card";
 import "../MovieNight/MovieNight.css";
 import Header from "../../../components/Header/Header";
 import Footer from "../../../components/Footer/Footer";
-import masterchef from "./Assets/masterchef.jpeg";
-import masterchef1 from "./Assets/masterchef1.JPG";
-import masterchef2 from "./Assets/masterchef2.JPG";
-import masterchef3 from "./Assets/masterchef3.JPG";
-import masterchef4 from "./Assets/masterchef4.JPG";
-import masterchef5 from "./Assets/masterchef5.JPG";
 
 export default function MasterChef() {
   return (
@@ -17,20 +11,20 @@ export default function MasterChef() {
       <div className="mov-night">
       <span className="header-bg-for-white"/>
         <Card
-          img={masterchef}
+          img="https://drive.google.com/uc?export=view&id=1iBPnvP8Be-4vUExibg946SQo4F4FnPVk"
           alt="Masterchef"
           title="Masterchef"
           date="Date: 19th November, 2022"
           about="An extraordinary culinary event that celebrates the talent and passion of aspiring chefs! This highly anticipated competition brings together students who are eager to showcase their culinary skills and creativity. Prepare to be enthralled as these young chefs demonstrate their culinary prowess, serving up incredible dishes and pushing the boundaries of gastronomy. From the sizzle of the pans to the tantalizing aromas, 'MasterChef' promises an exhilarating experience that will leave you inspired and hungry for more.."
-          img1={masterchef1}
+          img1="https://drive.google.com/uc?export=view&id=17OIfOAkBRd7AMU_mGmR7dIrCFgi4B5LJ"
           alt1="Masterchef"
-          img2={masterchef2}
+          img2="https://drive.google.com/uc?export=view&id=15HNv5GeuPvb3cGxatbl1-qFBu5U7_tx4"
           alt2="Masterchef"
-           img3={masterchef3}
+           img3="https://drive.google.com/uc?export=view&id=1OeyDz7GuiMKZXMtKBeAq8TaeNt1-lbHx"
           alt3="Masterchef"
-          img4={masterchef4}
+          img4="https://drive.google.com/uc?export=view&id=10DwmIBOhagvgL-M8o7I2Yb3hchakurx5"
           alt4="Masterchef"
-          img5={masterchef5}
+          img5="https://drive.google.com/uc?export=view&id=1BMPOagrZpE1Ru6F7aXppar2aKlt4Wzbn"
           alt5="Masterchef"
         />
       </div>
