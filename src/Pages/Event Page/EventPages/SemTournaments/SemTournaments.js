@@ -21,7 +21,7 @@ export default function SemTournaments() {
           img={sems}
           alt="Semester Tournament"
           title="Semester Tournament"
-          date="Date: 12th March 2021"
+          date=""
           about="Welcome to JUIT (Jaypee University of Information Technology), where the spirit of competition and camaraderie come alive in the exhilarating Semester Tournament, our highly anticipated annual sports extravaganza. This tournament is a thrilling celebration of athleticism, teamwork, and sportsmanship, bringing together students from all disciplines to showcase their skills and passion for sports.The Semester Tournament at JUIT is not just about sports—it's a celebration of athleticism, resilience, and the indomitable spirit of our students. It reinforces the values of discipline, teamwork, and determination, which are integral to success in all aspects of life. Join us in this thrilling annual event and experience the joy of sportsmanship and the power of unity at JUIT."
          img1={semtour1}
           alt1="Semester Tournament"
